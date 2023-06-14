@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.circle {
+  border-radius: 30px;
+  font-size: 10px;
+  position: absolute;
+}
